@@ -1,0 +1,4 @@
+*.[mM][dD]
+*.[pP][dD][fF]
+.claude/
+__pycache__/
